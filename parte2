@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main(){
-printf(“esto es muy divertido”);
+printf(“\nesto es muy divertido\n”);
+printf(“\nojala terminemos pronto\n”);
 return 0;
 }
