@@ -2,5 +2,6 @@
 int main(){
 printf(“\nesto es muy divertido\n”);
 printf(“\nojala terminemos pronto\n”);
+printf(“\ntenemos que apurarnos\n”);
 return 0;
 }
